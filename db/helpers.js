@@ -9,7 +9,7 @@ export function connectToDB() {
   })
 }
 
-export function truncateDb() {
+export function truncateDB() {
   // return mongoose.connection.db.dropDatabase()
 
   //* If having issues dropping db locally, comment this ^^^ line above back om  and COMMENT OUT the if statement below !
