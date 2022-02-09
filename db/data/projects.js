@@ -34,6 +34,7 @@ export default [
     credit: 'Giorgia Lupo & Talia Cotton',
     description: 'Although visually charming, this interactive project highlights the serious problem of airborne microplastics.',
     video: 'https://player.vimeo.com/external/658931831.hd.mp4?s=d8470ba4dbbdafef57553b880c23f711dae08c70&profile_id=169&oauth_token_id=1150485861',
+    loved: true,
   },
   {
     website: 'lineto.com/#one-point-zero',
@@ -49,6 +50,7 @@ export default [
     credit: 'Tal Midyan & Christopher Kim',
     description: 'A daily feed of New York Times Articles with cover assets generated via machine learning.',
     video: 'https://player.vimeo.com/external/652372871.sd.mp4?s=be0642a4565fc4c8dd657aa032b8914cfa09bccf&profile_id=165&oauth_token_id=1150485861',
+    loved: true,
   },
   {
     website: 'janniswichmann.com/de',
@@ -106,6 +108,7 @@ export default [
     credit: 'Random',
     description: 'Deep dive and explore the archive for CP Company, filter and sort with colour and type, with glitchy generated transitions. ',
     video: 'https://player.vimeo.com/external/574822593.sd.mp4?s=cc2e8b00ed940df9337aeba8bcbf3ca80fea428a&profile_id=165&oauth2_token_id=1150485861',
+    loved: true,
   },
   {
     website: 'swissdesignawardsblog.ch',
@@ -136,7 +139,7 @@ export default [
     video: 'https://player.vimeo.com/external/306201222.hd.mp4?s=9a823ad4a6b61d03bc53aa7c3687846b66ac1b8d&profile_id=174&oauth2_token_id=1151322599',
   },
   {
-    website: 'www.wetteaufdiezukunft.de',
+    website: 'wetteaufdiezukunft.de',
     hyperlink: 'https://www.wetteaufdiezukunft.de/',
     credit: 'Liebermann Kiepe Reddemann & Benjamin Maus',
     description: 'Travel to the Malte Bartsch exhibition at Kunsthalle Wilhelmshaven via your browser in this WebSocket connected artwork.',
@@ -219,6 +222,7 @@ export default [
     credit: 'Bryant Wells, Julia Schaefer & Orysia Zabeida',
     description: 'A simple yet smart interaction for Yale School of Art Open Studios 2019 using the cursor leaving the screen as a trigger for an SVG transition.',
     video: 'https://player.vimeo.com/external/390534169.hd.mp4?s=b0616013063c411cf936d6c251d666395d2a271c&profile_id=174&oauth2_token_id=1150485861',
+    loved: true,
   },
   {
     website: 'zooaszoo.com',
