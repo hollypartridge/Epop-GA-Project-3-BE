@@ -11,11 +11,11 @@ const projectCommentSchema = new mongoose.Schema({
 })
 
 const projectSchema = new mongoose.Schema({
-  projectTitle: { type: String, required: true, maxlength: 150 },
-  primaryDescription: { type: String, required: true, maxLength: 250 },
-  secondaryDescription: { type: String, maxLength: 1000 },
-  primaryImage: { type: String, required: true },
-  secondaryImage: [{ type: String }],
+  website: { type: String, required: true, maxlength: 250 },
+  hyperlink: { type: String, required: true, maxLength: 200 },
+  credit: { type: String, required: true, maxLength: 250 },
+  description: { type: String, required: true, maxLength: 400 },
+  video: { type: String, required: true },
   categoryTag: [{ type: String }],
   comments: [projectCommentSchema],
   loved: { type: Boolean },
