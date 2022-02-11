@@ -4,7 +4,7 @@ export default [
     hyperlink: 'http://thesoundarchitects.com/',
     credit: 'Gianluca Monaco & The Gymnasium',
     description: 'A player-visualiser site for The Sound Architects that features some charming audio-related details. ',
-    video: 'https://vod-progressive.akamaized.net/exp=1644580320~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4554%2F26%2F672774614%2F3098816835.mp4~hmac=9eccadb41e69ea6e4da8a8b7742c58247c7bff9e09735aef977ac369200c4bfc/vimeo-prod-skyfire-std-us/01/4554/26/672774614/3098816835.mp4?filename=540p.mp4',
+    video: 'https://vod-progressive.akamaized.net/exp=1644756720~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4554%2F26%2F672774614%2F3098816835.mp4~hmac=cf8d1b916b933334c39c32dc489c45034230dc109a9f3af82970397b6853a832/vimeo-prod-skyfire-std-us/01/4554/26/672774614/3098816835.mp4?filename=540p.mp4',
   },
   {
     website: 'always-hallways.de-ateliers.nl',
